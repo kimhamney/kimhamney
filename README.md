@@ -1,11 +1,11 @@
 <div align=center>
   
-  ## Portfolio & Blog
+  # Portfolio & Blog
 
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=campaignmonitor&logoColor=white)](https://portfolio-website-hyemin.netlify.app/)
   [![Blog Badge](https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white)](https://velog.io/@kimhamney/posts)
 
-  ## Tech Stacks
+  # Tech Stacks
 
   ![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white) 
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black) 
@@ -30,7 +30,7 @@
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
   -->
   
-  ## GitHub Stats
+  # GitHub Stats
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimhamney&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimhamney&theme=github)
