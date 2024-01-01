@@ -9,16 +9,16 @@
 
   ![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white) 
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black) 
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-  ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=coffeescript&logoColor=white) 
+  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white) 
 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black) 
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
   
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
-  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 
   ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
