@@ -36,9 +36,8 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimhamney&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimhamney&theme=github&exclude=ts)
 
-  [![LeetCode](https://leetcode-stats-six.vercel.app/?username=kimhamney)](https://github.com/KnlnKS/leetcode-stats)
-
   <!---
+  [![LeetCode](https://leetcode-stats-six.vercel.app/?username=kimhamney)](https://github.com/KnlnKS/leetcode-stats)
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=newsister)](https://solved.ac/newsister)
   -->
 
