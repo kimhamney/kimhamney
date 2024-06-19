@@ -2,7 +2,7 @@
   
   # Portfolio & Blog
 
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=campaignmonitor&logoColor=white)](https://portfolio-website-hyemin.netlify.app/)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=campaignmonitor&logoColor=white)](https://hyeminkim.netlify.app/)
   [![Blog Badge](https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white)](https://velog.io/@kimhamney/posts)
 
   # Tech Stacks
