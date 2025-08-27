@@ -7,16 +7,19 @@
 
   # Tech Stacks
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white) 
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white) 
 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black) 
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?&logo=react&logoColor=61DAFB)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black) 
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
-  
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?&logo=node.js&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
   ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 
@@ -35,12 +38,5 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimhamney&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimhamney&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimhamney&theme=github&exclude=ts)
-
-  <!---
-  [![LeetCode](https://leetcode-stats-six.vercel.app/?username=kimhamney)](https://github.com/KnlnKS/leetcode-stats)
-  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=newsister)](https://solved.ac/newsister)
-  -->
-
-  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkimhamney&label=&icon=github&color=%23efadce)
 
 </div>
