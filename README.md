@@ -31,12 +31,11 @@
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-  -->
   
   # GitHub Stats
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimhamney&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimhamney&theme=github)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimhamney&theme=github&exclude=ts)
-
+  -->
 </div>
